@@ -1,0 +1,9 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    box-sizing: inherit;
+}
+.container__box{
+
+}
